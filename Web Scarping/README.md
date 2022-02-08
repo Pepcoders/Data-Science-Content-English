@@ -1,4 +1,4 @@
-# Web Scarping using Python
+# Web Scraping using Python
 ## Course Outline
 ### Introduction
 	- Introduction
