@@ -1,5 +1,5 @@
 # Data-Science-Content-English
 
-Create a Folder with the topic Name e.g, Numpy inside it file Name would be same e.g, Numpy
+Create a Folder with the topic Name e.g, Numpy inside it file Name README.md and write everything in it.
 
-Inside the folder ther would a code file Named Numpy_Code.
+Inside the folder there would also be a code file Named Numpy_Code.
