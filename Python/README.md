@@ -12,8 +12,8 @@
 
 * Why we need variables | Types of variables
 * I/O in Python
-* Why we need operators | Types of operators |
-* Conditional Operations
+* Why we need operators | Types of operators
+* Conditional Operators
   * If-Else Statement
   * Switch Statement
 * Why we need loops
