@@ -71,7 +71,7 @@
   * What is a dictionary?
   * Implementing a dictionary in Python.
   * Functions of dictionary
-* Racap of List, Sets, Tuples and Dictionary
+* Recap of List, Sets, Tuples and Dictionary
 * Error Handling
   * Need of error handling
   * Protective Approach using if-else statement
