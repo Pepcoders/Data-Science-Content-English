@@ -1,1 +1,1 @@
-# Welcome to Business Analytics
+# Welcome
