@@ -3,7 +3,7 @@
 ### Introduction
 	- Introduction
 	- Library for scraping: BeautifulSoup, Selenium, Scrapy
-	- Status Codes
+	- Types of HTTP Status Codes
 	- HTML for Web Scraping: Tags & Elements
 	- HTML for web scraping: Tree Structure
 ### Introduction to BeautifulSoup
