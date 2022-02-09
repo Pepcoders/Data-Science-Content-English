@@ -2,13 +2,11 @@
 
 ## **Analyze Dozens Of Datasets and Create stunning Visualization**
 
-### 1. What Is Data Visualization and Why Is It Important?
+### 1. What Is Data Visualization?
 
 ### 2. Why Learn Data Visualization?
 
-### 3. Why do we need to Plot.
-
-### 4. Different types of Plot.
+### 3. Different ways of Plotting.
 
 
 ## MATPLOTLIB :
