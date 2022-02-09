@@ -93,4 +93,5 @@
   * Need of error handling
   * Protective Approach using if-else statement
   * Try and Except
-  * Pass Keyword
+  * finally
+  * raise
