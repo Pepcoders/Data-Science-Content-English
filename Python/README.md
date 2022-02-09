@@ -22,9 +22,8 @@
     * continue and break keywords
     * While Else
   * For loop
-    * Basics
-    * For Else
     * Range Method
+    * For Else
   * Do While loop
     * Basic
   * Difference between entry controlled and exit controlled loop
