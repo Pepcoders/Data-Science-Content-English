@@ -19,12 +19,11 @@
 * Loops
   * While loop
     * Basics
+    * continue and break keywords
     * While Else
-    * While Continue
   * For loop
     * Basics
     * For Else
-    * For Continue
     * Range Method
   * Do While loop
     * Basic
