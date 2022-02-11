@@ -1,9 +1,10 @@
 # Web Scraping using Python
 ## Course Outline
 ### Getting started with web scraping
-- Introduction
+- Course Overview
+- Exploring Web Scraping with Python
 	- What is Web Scraping
-	- Why we need Web Scraping
+	- Why do we need Web Scraping
 	- How to Scrap(Library for scraping: BeautifulSoup, Selenium, Scrapy)
 - Types of HTTP Status Codes
 - HTML for Web Scraping: Tags & Elements
