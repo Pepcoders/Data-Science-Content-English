@@ -1,4 +1,8 @@
 # **Outline for Pandas** 
+## What is the pandas?
+## why we need pandas?
+## how to import pandas in colab
+## types of datastructure in pandas 
 ## Series
 ###	Constructions 
         - What is Series 
@@ -74,9 +78,9 @@
 
 ## **Data Frame** 
 ### constructor 
-        - what is DataFreame 
-        - why we need DataFrame 
-        - creating Dataframe 
+        - why we need pandas DataFrame 
+        - what is pandas DataFreame 
+        - how to create Dataframe 
         - creating dataframe from sereis , dictionary
 ### Attributes and underlying data
         - index 
@@ -116,8 +120,63 @@
         - all 
         - any
         - corr
-        - corre
+        - corrwith
+        - count 
+        - max 
+        - mean 
+        - median
+        - round 
+        - quantile
+        - skew 
+        - sum 
+        - var 
+        - value_counts
+### Reindexing / selection / label manipulation
+        - drop 
+        - drop_duplicates
+        - filter
+        - equals 
+        - head
+        - idxmax
+        - idxmin 
+        - reindex
+        - rename 
+        - reset_index
+        - set_index
+        - tail
+        - take
+### missing Data handling 
+        - backfill
+        - bfill 
+        - dropna
+        - ffill
+        - fillna
+        - interpolate
+        - isna
+        - isnull
+        - replace
+### Reshaping, sorting, transposing
+        - droplevel 
+        - sort_values
+        - sort_index
+        - nlargest 
+        - nsmallest 
+        - stack 
+        - squeeze
+        - to_xarray
+        - T
+### Combining / comparing / joining / merging
+        - append 
+        - assign 
+        - compare 
+        - join 
+        - merge 
+        - update 
+### Time Series - related 
+        - to_timestamp
+        - to_period 
+        - first_valid_index
+        
 
-continue working 
 
 
