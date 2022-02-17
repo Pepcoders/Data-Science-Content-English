@@ -3,7 +3,7 @@
 
 ### 1. Course Overview
 - [ ] 1. Course Overview
-### 2. Getting Started with BeautifulSoup
+### 2. Getting Started with Web Scraping
 - [ ] 1. Module Overview and Prerequisites
 - [ ] 2. What is Web Scraping
 - [ ] 3. Real Life Example of Web Scraping
