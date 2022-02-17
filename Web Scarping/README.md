@@ -2,16 +2,17 @@
 ## Course Outline
 
 ### 1. Course Overview
-- [x] 1. Course Overview
+- [ ] 1. Course Overview
 ### 2. Getting Started with BeautifulSoup
-- [x] 1. What is Web Scraping
-- [x] 2. Real Life Example of Web Scraping
-- [x] 3. Different Libraries for Web Scraping 
-- [ ] 1. Module Overview and Prerequisites
-- [ ] 2. HTTP Requests and Responses
-- [ ] 3. GET and POST Requests Using the Requests Library
-- [ ] 4. Handling Redirects with the Requests Library
-- [ ] 5. Module Summary
+- [ ] 5. Module Overview and Prerequisites
+- [ ] 1. What is Web Scraping
+- [ ] 2. Real Life Example of Web Scraping
+- [ ] 3. Different Libraries for Web Scraping 
+- [ ] 4. Basics of HTML
+- [ ] 5. HTTP Requests and Responses
+- [ ] 6. GET and POST Requests Using the Requests Library
+- [ ] 7. Handling Redirects with the Requests Library
+- [ ] 8. Module Summary
 ### 3. Getting Started with BeautifulSoup
 - [ ] 1. Module Overview
 - [ ] 2. The HTML Parse Tree
