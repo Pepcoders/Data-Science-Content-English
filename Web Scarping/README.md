@@ -9,27 +9,27 @@
 - [x] 3. Different Libraries for Web Scraping 
 - [x] 4. Basics of HTML and HTML Parse Tree
 - [x] 5. HTTP Requests and Responses
-- [ ] 6. GET and POST Requests Using the Requests Library
-- [ ] 7. Handling Redirects with the Requests Library
+- [ ] 6. GET and POST Requests
+- [ ] 7. Handling Redirects
 - [ ] 8. Module Summary
 ### 3. Getting Started with BeautifulSoup
 - [ ] 1. Module Overview
 - [ ] 2. Introducing Beautiful Soup
-- [ ] 3. Extracting Specific Page Elements
-- [ ] 4. Filtering Elements Using Find and Find All
-- [ ] 5. Searching and Filtering Using Custom Functions
+- [ ] 3. Extracting Page Elements
+- [ ] 4. Finding Elements Using Find and Find All
+- [ ] 5. Filtering Using Custom Functions
 - [ ] 6. Extracting Links from a Page
-- [ ] 7. XML and XPath
+- [ ] 7. Intro to XML and XPath
 - [ ] 8. Performing Advanced Search on the Parse Tree
-- [ ] 0. CSS Selectors Using Soup Sieve
-- [ ] 10. Using XPath to Navigate an XML Tree
+- [ ] 0. CSS Selectors
+- [ ] 10. XPath to Navigate an XML Tree
 - [ ] 11. Module Summary
 ### 4. Exploring Selenium with Python
 - [ ] 1. Module Overview
-- [ ] 2. How to Identify Java Script Driven Websites
+- [ ] 2. How to Identify Dynamic Websites
 - [ ] 3. Installing Selenium and ChromeDriver
-- [ ] 4. Importing Libraries and Creating The Driver
-- [ ] 5. How to Find Elements with Selenium
+- [ ] 4. Creating The Driver
+- [ ] 5. Find Elements with Selenium
 - [ ] 6. Clicking on a Button
 - [ ] 7. Extracting Data from a Table
 - [ ] 8. Selecting Elements within a Dropdown
