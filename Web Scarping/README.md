@@ -5,14 +5,13 @@
 - [ ] 1. Course Overview
 ### 2. Getting Started with Web Scraping
 - [ ] 1. Module Overview and Prerequisites
-- [ ] 2. What is Web Scraping
-- [ ] 3. Real Life Example of Web Scraping
-- [ ] 4. Different Libraries for Web Scraping 
-- [ ] 5. Basics of HTML and HTML Parse Tree
-- [ ] 6. HTTP Requests and Responses
-- [ ] 7. GET and POST Requests Using the Requests Library
-- [ ] 8. Handling Redirects with the Requests Library
-- [ ] 9. Module Summary
+- [ ] 2. What is Web Scraping & Real Life Example of Web Scraping
+- [ ] 3. Different Libraries for Web Scraping 
+- [ ] 4. Basics of HTML and HTML Parse Tree
+- [ ] 5. HTTP Requests and Responses
+- [ ] 6. GET and POST Requests Using the Requests Library
+- [ ] 7. Handling Redirects with the Requests Library
+- [ ] 8. Module Summary
 ### 3. Getting Started with BeautifulSoup
 - [ ] 1. Module Overview
 - [ ] 2. Introducing Beautiful Soup
