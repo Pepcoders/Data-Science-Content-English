@@ -15,15 +15,16 @@
 ### 3. Getting Started with BeautifulSoup
 - [ ] 1. Module Overview
 - [ ] 2. Introducing Beautiful Soup
-- [ ] 3. Extracting Page Elements
-- [ ] 4. Finding Elements Using Find and Find All
-- [ ] 5. Filtering Using Custom Functions
-- [ ] 6. Extracting Links from a Page
-- [ ] 7. Intro to XML and XPath
-- [ ] 8. Performing Advanced Search on the Parse Tree
-- [ ] 0. CSS Selectors
-- [ ] 10. XPath to Navigate an XML Tree
-- [ ] 11. Module Summary
+- [ ] 3. Code: How to use Beautiful Soup
+- [ ] 4. Extracting Page Elements
+- [ ] 5. Finding Elements Using Find and Find All
+- [ ] 6. Filtering Using Custom Functions
+- [ ] 7. Extracting Links from a Page
+- [ ] 8. Intro to XML and XPath
+- [ ] 9. Performing Advanced Search on the Parse Tree
+- [ ] 10. CSS Selectors
+- [ ] 11. XPath to Navigate an XML Tree
+- [ ] 12. Module Summary
 ### 4. Exploring Selenium with Python
 - [ ] 1. Module Overview
 - [ ] 2. How to Identify Dynamic Websites
