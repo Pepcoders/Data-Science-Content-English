@@ -20,6 +20,7 @@
 - [ ] 5. Finding Elements Using Find and Find All
 - [ ] 6. Filtering Using Custom Functions
 - [ ] 7. Extracting Links from a Page
+- [ ] 8. Soup Strainer
 - [ ] 8. Intro to XML and XPath
 - [ ] 9. Performing Advanced Search on the Parse Tree
 - [ ] 10. CSS Selectors
