@@ -9,8 +9,8 @@
 - [x] 3. Different Libraries for Web Scraping 
 - [x] 4. Basics of HTML and HTML Parse Tree
 - [x] 5. HTTP Requests and Responses
-- [ ] 6. GET and POST Requests
-- [ ] 7. Handling Redirects
+- [x] 6. GET and POST Requests
+- [x] 7. Handling Redirects
 - [ ] 8. Module Summary
 ### 3. Getting Started with BeautifulSoup
 - [ ] 1. Module Overview
