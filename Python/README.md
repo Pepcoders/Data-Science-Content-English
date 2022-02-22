@@ -24,7 +24,7 @@
   - [x] For loop
     - [x] Range Method
     - [x] For Else
-- [ ] Code Indentation in Python
+- [x] Code Indentation in Python
 - [ ] Why do we need functions?
 - [ ] Implementing basic functions
 
@@ -32,15 +32,15 @@
 
 - [ ] What are Arrays?
 - [ ] Implementing Arrays in Python
-- [ ] Lists
-  - [ ] What are Lists in Python
-  - [ ] Implementing Lists in Python
-  - [ ] Basic operations on Lists
-    - [ ] append
-    - [ ] insert
-    - [ ] remove
-    - [ ] pop
-  - [ ] Constructor Implementation
+- [x] Lists
+  - [x] What are Lists in Python
+  - [x] Implementing Lists in Python
+  - [x] Basic operations on Lists
+    - [x] append
+    - [x] insert
+    - [x] remove
+    - [x] pop
+  - [x] Constructor Implementation
 - [ ] Tuples
   - [ ] What are Tuples in Python
   - [ ] Implementing Tuples in Python
