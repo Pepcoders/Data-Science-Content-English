@@ -41,16 +41,16 @@
     - [x] remove
     - [x] pop
   - [x] Constructor Implementation
-- [ ] Tuples
-  - [ ] What are Tuples in Python
-  - [ ] Implementing Tuples in Python
-  - [ ] Basic operations on Tuples
-    - [ ] tuple object does not support item assignment
-    - [ ] tuple object does not append method
-  - [ ] Constructor Implementation
-- [ ] Sets
-  - [ ] What are Sets in Python
-  - [ ] Implementing Sets in Python
+- [x] Tuples
+  - [x] What are Tuples in Python
+  - [x] Implementing Tuples in Python
+  - [x] Basic operations on Tuples
+    - [x] tuple object does not support item assignment
+    - [x] tuple object does not append method
+  - [x] Constructor Implementation
+- [x] Sets
+  - [x] What are Sets in Python
+  - [x] Implementing Sets in Python
   - [ ] Basics operations on Sets
     - [ ] set object is not subscriptable
     - [ ] add
